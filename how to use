@@ -1,0 +1,8 @@
+lounch program 2 times set 1 program to reciver n 2nd to sender
+enter public key of reciver to sender
+enter text in sender module n encode it
+n u can decode encoded_data.txt using reciver module
+
+
+
+since it produses different keys every time, dont close program at any step
